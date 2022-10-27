@@ -1,0 +1,3 @@
+bot name testBot
+bot id sfsdlakj2ejq9wBot
+токен бота 5420703370:AAG33MrQsqklbDO_WKPelqNt4y2198_QlgU
